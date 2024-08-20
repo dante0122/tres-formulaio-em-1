@@ -16,8 +16,8 @@ h1 {
 
 .button {
     display: inline-block;
-    padding: 30px 50px;
-    margin: 100px;
+    padding: 100px 100px;
+    margin: 30px;
     text-align: center;
     text-decoration: none;
     font-size: 18px;
